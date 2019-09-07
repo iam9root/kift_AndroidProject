@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="title_home">Home</string>
+    <string name="title_mylist">MyList</string>
+    <string name="title_kiftmap">K-iftMap</string>
+    <string name="title_setting">Setting</string>
+</resources>
